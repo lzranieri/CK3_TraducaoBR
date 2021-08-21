@@ -1,0 +1,38 @@
+﻿l_english:
+ bm_1066_rags_to_riches:0 "Dos Trapos a Seda"
+ bm_1066_rags_to_riches_desc:1 "Por toda Europa, famílias lutam e maquinam por poder. Muitas terras estão em disputa, enquanto batalhas são vencidas e perdidas, dinastias vêm e vão conforme seus governantes são deixados para trás.\n\n#bold Velhos reis estão sendo substituídos, enquanto novos candidatos sobem até as estrelas. Qual deles será você?#!"
+
+ # Murchad Briain, Duke of Munster, Ireland
+ bookmark_rags_to_riches_petty_king_murchad:0 "Petty King Murchad"
+ bookmark_rags_to_riches_petty_king_murchad_desc:0 "No início do século XI, a alta nobreza da Irlanda caiu tanto perto quanto longe do alcance da casa Briain, pois outras casas nobres Irlandesas guerrearam por território, umas contra as outras e contra colonos Vikings. Ainda assim, além de ser descendente de uma linhagem de homens considerados destinados de deterem a realeza, pouco se sabe sobre o breve reinado de Murchad`s sobre a menor área de Munster.\n\n#bold Com sua ajuda, talvez um membro da casa Briain possa se sentar no trono da Irlanda novamente?#!"
+
+ bookmark_rags_to_riches_petty_king_murchad_alt_brian:0 "$Brian$"
+ bookmark_rags_to_riches_petty_king_murchad_alt_bebinn:0 "$BE_binn$"
+
+ # Matilda di Canossa, Duchess of Tuscany, Italy
+ bookmark_rags_to_riches_duchess_matilda:0 "Duchess Matilda"
+ bookmark_rags_to_riches_duchess_matilda_desc:0 "By skill or circumstance, Matilda of Canossa is destined to inherit a substantial territory in Northern Italy. She will move on to become a powerful and well-connected ruler, eventually rising to the unique rank of Imperial Vicar and Vice-Queen of Italy. Long after her death, she shall remain a figure legendary for both her piousness and suspected witchcraft.\n\n#bold Can you ensure Mathilda's legacy endures, and continue the Canossa line for generations to come?#!"
+
+ # Yahya Dhunnunid, Emir (Duke) of Toldeo, Iberia
+ bookmark_rags_to_riches_emir_yahya:0 "Emir Yahya"
+ bookmark_rags_to_riches_emir_yahya_desc:1 "O Reino de Toledo chegara ao poder no final do século XI, quando o Rei de León conquistar a cidade de mesmo nome. Com o extermínio de Emir Yahya e de sua influência, significa que a família Dhunnunid perdera o direito por sua terra na região, onde eles têm reinado por gerações.\n\n#bold Manipulando seus rivais e encontrando mais aliados, você tem o que é preciso para desafiar os Reis da Península Ibérica e mudar a história da casa Dhunnunid?#!"
+
+ bookmark_rags_to_riches_emir_yahya_alt_zahida:0 "$Zahida$"
+ bookmark_rags_to_riches_emir_yahya_alt_yahya2:0 "$Yahya$"
+
+ # Vratislav Premyslid, Duke of Bohemia, Czechia
+ bookmark_rags_to_riches_duke_vratislav:0 "Duque Vratislav"
+ bookmark_rags_to_riches_duke_vratislav_desc:0 "A família Přemyslid tem governado a região da Bohemia por centenas de anos. Eles têm contado fortemente com a Senioridade como sua lei de sucessão, que, no caso do Duque Vratislav, mais cedo ou mais tarde o levará a uma seria contenda com seus irmãos.\n\n#bold Para se torner Rei da Bohemia, Vratislav precisara usar com inteligência seus recursos, tanto matérias quanto não – Você está preparado para o desafio?#!"
+
+ bookmark_rags_to_riches_duke_vratislav_alt_judita:0 "$Judita$"
+ bookmark_rags_to_riches_duke_vratislav_alt_ota:0 "$Ota$ $nick_the_handsome$"
+
+
+ # Robert 'The Fox' de Hauteville, Duke of Apulia, Sicily
+ bookmark_rags_to_riches_duke_robert:0 "Duque Robert"
+ bookmark_rags_to_riches_duke_robert_desc:0 "Robert começou sua carreira como um ladrão e chefe de um bando de ladroes de estrada. Sendo um entre muitos irmãos, o filho aventureiro nunca pensou que se tornaria um estrategista brilhante ou um estadista, governando vastos territórios – ainda assim, aqui esta ele, um poderoso Duque do Sul da Itália , pronto para seguir seu caminho na história, o que fara com que os Hautevilles mantenham uma presença na Sicília por maus de cem anos.\n\n#bold Se você pode consolidar o poder do reino, o Reino da Sicília aguarda seu governante! #!"
+
+ bookmark_rags_to_riches_duke_robert_alt_bohemond:0 "$Bohemond$"
+ bookmark_rags_to_riches_duke_robert_alt_roger:0 "$Roger$"
+ 
+###arthurlololol-09-09-20###

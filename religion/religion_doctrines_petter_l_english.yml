@@ -1,0 +1,19 @@
+﻿l_english:
+ doctrine_muhammad_succession_name:0 "Sucessão de Maomé"
+ doctrine_muhammad_succession_desc:0 "A questão de quem é o sucessor legítimo de Maomé como líder espiritual da comunidade muçulmana é essencial."
+ muhammad_succession_sunni_doctrine_name:0 "Sunita"
+ muhammad_succession_sunni_doctrine_desc:0 "Abu Bakr foi escolhido pela Umma como seu líder de direito, tanto politica qaunto religiosamente."
+ doctrine_parameter_hostility_override_muhammad_succession_sunni_doctrine_1:0 "Considera outras [faiths|E] Sunitas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_muhammad_succession_sunni_doctrine:0 "Considera [faiths|E] Sunitas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ muhammad_succession_shia_doctrine_name:0 "Shia"
+ muhammad_succession_shia_doctrine_desc:0 "Ali foi nomeado por Maomé como o líder da Umma, e somente através dele a linhagem de liderança espiritual pode ser traçada."
+ doctrine_parameter_hostility_override_muhammad_succession_shia_doctrine_1:0 "Cosindera outras [faiths|E] Shia como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_muhammad_succession_shia_doctrine:0 "Cosindera [faiths|E] Shia como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ muhammad_succession_muhakkima_doctrine_name:0 "Muhakkima"
+ muhammad_succession_muhakkima_doctrine_desc:0 "Ali foi o sucessor legítimo de Maomé, e sua aceitação da arbitragem durante o Primeiro Fitna, portanto, vai contra a vontade de Alá! Só Ele pode julgar um líder adequado para nós."
+ doctrine_parameter_hostility_override_muhammad_succession_muhakkima_doctrine_1:0 "Considera outras [faiths|E] Muhakkima como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_muhammad_succession_muhakkima_doctrine:0 "Considera [faiths|E] Muhakkima como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V]"
+ muhammad_succession_zandaqa_doctrine_name:0 "Zandaqa"
+ muhammad_succession_zandaqa_doctrine_desc:0 "Embora possamos traçar a linhagem do Profeta corretamente ou não de acordo com outros muçulmanos, nossas crenças nos marcam como párias independentemente. Que os pecadores nos chamem de Zandaqa: nós sabemos a verdade!"
+ 
+###CEFALOS 26/09/2020###

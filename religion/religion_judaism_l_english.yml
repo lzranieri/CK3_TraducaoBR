@@ -1,0 +1,114 @@
+﻿l_english:
+ judaism_religion:0 "Judaísmo"
+ judaism_religion_adj:0 "Judaica"
+ judaism_religion_adherent:0 "Judeu"
+ judaism_religion_adherent_plural:0 "Judeus"
+ judaism_religion_desc:0 "Uma boa vida é vivida de acordo com o pacto celebrado entre o povo hebreu e o Deus único e absoluto."
+ judaism_high_god_name:0 "O Senhor"
+ judaism_high_god_name_possessive:0 "do Senhor"
+ judaism_high_god_alternate:0 "O Santíssimo"
+ judaism_high_god_alternate_possessive:0 "do Santíssimo"
+ judaism_good_god_hashem:0 "HaShem"
+ judaism_good_god_el_shaddai:0 "Adonai"
+ judaism_devil_name:0 "Ba'al"
+ judaism_devil_name_possessive:0 "de Ba'al"
+ judaism_evil_god_the_adversary:0 "o Adversário"
+ judaism_house_of_worship:0 "sinagoga"
+ judaism_house_of_worship_plural:0 "sinagogas"
+ judaism_religious_symbol:0 "menorá"
+ judaism_religious_text:0 "A Torá"
+ judaism_religious_head_title:1 "Nasi"
+ judaism_religious_head_title_name:0 "Sumo Sacerdote de Israel"
+ judaism_devotee:0 "nazireu"
+ judaism_devotee_plural:0 "nazireus"
+ judaism_priest:0 "rabino"
+ judaism_priest_plural:0 "rabinos"
+ judaism_bishop:0 "Semichá"
+ judaism_bishop_plural:0 "Semichás"
+ judaism_divine_realm:0 "o sétimo céu"
+ judaism_positive_afterlife:0 "Olam Haba"
+ judaism_negative_afterlife:0 "Sheol"
+ judaism_death_deity_name:0 "O Anjo da Morte"
+ judaism_death_deity_name_possessive:0 "do Anjo da Morte"
+ judaism_witchgodname_raziel:0 "Raziel"
+
+ judaism_creator_god_name:0 "$judaism_high_god_name$"
+ judaism_creator_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_health_god_name:0 "$judaism_high_god_name$"
+ judaism_health_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_fertility_god_name:0 "$judaism_high_god_name$"
+ judaism_fertility_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_wealth_god_name:0 "$judaism_high_god_name$"
+ judaism_wealth_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_household_god_name:0 "$judaism_high_god_name$"
+ judaism_household_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_fate_god_name:0 "$judaism_high_god_name$"
+ judaism_fate_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_knowledge_god_name:0 "$judaism_high_god_name$"
+ judaism_knowledge_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_war_god_name:0 "$judaism_high_god_name$"
+ judaism_war_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_trickster_god_name:0 "$christianity_trickster_god_name$"
+ judaism_trickster_god_name_possessive:0 "$christianity_trickster_god_name_possessive$"
+ judaism_night_god_name:0 "$judaism_high_god_name$"
+ judaism_night_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+ judaism_water_god_name:0 "$judaism_high_god_name$"
+ judaism_water_god_name_possessive:0 "$judaism_high_god_name_possessive$"
+
+ #Rabbinism
+ rabbinism:0 "Rabinismo"
+ rabbinism_adj:0 "Rabínico"
+ rabbinism_adherent:0 "Rabinista"
+ rabbinism_adherent_plural:0 "Rabinistas"
+ rabbinism_desc:0 "O rabinismo enfatiza o propósito dos rabinos como intérpretes da lei religiosa da Halachá. São as leis e tradições que asseguram o cumprimento do pacto com o Senhor, e os rabinos guardam essas leis."
+
+
+ #Karaite
+ karaism:0 "Caraísmo"
+ karaism_adj:0 "Caraíta"
+ karaism_adherent:0 "Caraíta"
+ karaism_adherent_plural:0 "Caraítas"
+ karaism_desc:0 "Em matéria de direito religioso, só o Tanakh é a autoridade máxima e absoluta. O papel dos rabinos não é o de reavaliar e adaptar as regras do pacto, mas o de interpretar o seu significado literal."
+
+ #Haymanot
+ haymanot:0 "Haymanot"
+ haymanot_adj:0 "Haymanot"
+ haymanot_adherent:0 "Haymanot"
+ haymanot_adherent_plural:0 "Haymanot"
+ haymanot_desc:0 "Os rabinos, ou kahen, julgam em termos de leis religiosas, mas eles trabalham junto a uma cúpula de anciões, os quais julgam em termos de tradição e vida."
+
+ haymanot_religious_text:0 "Orit"
+ haymanot_religious_head_title:0 "Liqa Kahnet"
+ haymanot_devotee:0 "Monkosa"
+ haymanot_devotee_plural:0 "Monkosas"
+ haymanot_priest:0 "Kahen"
+ haymanot_priest_plural:0 "Kahens"
+ haymanot_bishop:0 "Shmagle"
+ haymanot_bishop_plural:0 "Shmagles"
+
+ #Malabar
+ malabarism:0 "Malabarismo"
+ malabarism_adj:0 "Malabari"
+ malabarism_adherent:0 "Malabari"
+ malabarism_adherent_plural:0 "Malabari"
+ malabarism_desc:1 "Após os descendentes das tribos de Israel se espalharem pelo mundo, eles criaram comunidades menores de leste a oeste, vivendo de forma independente. Também chamados de Judeus de Cochin, eles fizeram sua nova morada no reino Cochin do sul da Índia. Lá, eles se misturaram ao povo local e trocaram experiências culturais."
+
+ #Samaritan
+ samaritan:0 "Samaritanismo"
+ samaritan_adj:0 "Samaritano"
+ samaritan_adherent:0 "Samaritano"
+ samaritan_adherent_plural:0 "Samaritanos"
+ samaritan_desc:0 "Originados das tribos que colonizaram Samaria, os samaritanos seguiram uma versão original e não modificada da Torá. Nesse sentido, eles praticam a verdadeira religião de Moisés, servindo aos deveres diretos concedidos por Deus."
+
+ #Kabarism
+ kabarism:0 "Cabarismo"
+ kabarism_adj:0 "Cabarita"
+ kabarism_adherent:0 "Cabarita"
+ kabarism_adherent_plural:0 "Cabaritas"
+ kabarism_desc:0 "Cabaristas focam na interpretação mais correta e comum da Halachá, junto com tradições cabalísticas compartilhadas.
+
+
+###CEFALOS 17/09/2020###
+###Sergio Oak + 13/09/2020###
+
+

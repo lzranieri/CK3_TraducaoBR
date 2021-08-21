@@ -1,0 +1,22 @@
+﻿l_english:
+ OUTLINER_NO_SCHEMES:0 "Nenhum esquema em andamento"
+ OUTLINER_NO_ARMIES:0 "Nenhum erguido"
+ OUTLINER_NO_PINNED_CHARACTERS:0 "Nenhum fixado"
+ OUTLINER_PINNED_CHARACTERS:0 "Personagens fixados"
+ OUTLINER_PLAYERS:0 "Jogadores"
+ OUTLINER_PLAYER_ITEM:0 "[OutlinerPlayer.GetName] - [SelectLocalization(OutlinerPlayer.GetCharacter.IsValid, OutlinerPlayer.GetCharacter.GetName, 'JOMINI_MULTIPLAYER_GUI_OBSERVER')]"
+ OUTLINER_JOIN_PROGRESS:0 "Junte-se ao progresso: $PROGRESS|0%$"
+ OUTLINER_CHARACTER_NAME:0 "[CHARACTER.GetName]"
+ OUTLINER_SCHEMES:1 "Esquemas"
+ OUTLINER_ARMIES:1 "Exércitos"
+ OUTLINER_HOLDINGS:1 "Propriedades de domínio"
+ OUTLINER_HOLDER_CLICK_INFO:0 "\n#I Clique para ver e ir para o local#!"
+ OUTLINER_EXPAND:0 "#T Expandir#!"
+ OUTLINER_COLLAPSE:0 "#T Minimizar#!"
+ OUTLINER_ARMY_WARNING_IDLE_EMBARKED:0 "#X O Exército está no mar e ocioso, custando manutenção extra#!"
+ OUTLINER_ARMY_CLICK_TO_SELECT:0 "#I Clique para selecionar o exército#!"
+ OUTLINER_ARMY_CLICK_TO_PAN:0 "#I Clique para ir para o local#!"
+ OUTLINER_ARMY_RIGHT_CLICK_TO_PAN:0 "#I Clique com o botão direito para ir para o local#!"
+ OUTLINER_PINNED_CHARACTER: "[Character.GetShortUINameNotMeNoTooltip]#medium , [Character.GetAge]#!"
+
+###Viduka10 30/11/2020###

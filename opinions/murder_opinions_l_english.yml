@@ -1,0 +1,27 @@
+﻿l_english:
+ murdered_close_family:0 "Membro da Família Assassinado"
+ murdered_close_family_crime:0 "Membro da Família Assassinado"
+ attempted_murder_close_family:0 "Tentou Assassinar um Membro da Família"
+ attempted_murder_close_family_crime:0 "Tentou Assassinar um Membro da Família"
+ attempted_murder_me:0 "Tentou me Assassinar"
+ attempted_murder_me_crime:0 "Tentou me Assassinar"
+ murdered_close_relation_opinion:0 "Relação Próxima Assassinada"
+
+
+ executed_close_family:0 "Família Executada"
+ executed_close_family_crime:0 "Família Ilegalmente Executada"
+ executed_vassal:0 "Executou meu Vassalo"
+ executed_fellow_vassal:0 "Executou Outro Vassalo"
+ executed_liege:0 "Executou meu Lorde"
+ executed_dynasty_member:0 "Membro da Dinastia Executado"
+ executed_family_sun_trial_modifier:0 "Pôs Família sobre o Teste do Sol"
+ executed_close_relation_opinion:0 "Relação Próxima Executada"
+ executed_my_countryman_modifier:0 "Executou meu Súdito"
+ executed_guest_modifier:0 "Executou outro Convidado"
+
+ tortured_family_member:0 "Membro da Família Torturado"
+ tortured_me:0 "Me Torturou"
+ blinded_family_member:0 "Membro da Família Cego"
+ blinded_me:0 "Me cegou"
+ castrated_family_member:0 "Membro da Família Castrado"
+ castrated_me:0 "Me castrou"

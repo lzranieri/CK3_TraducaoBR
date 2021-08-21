@@ -1,0 +1,26 @@
+﻿l_english:
+ diplomatic_scheme_lifestyle.1001.t:0 "Interesses Estratégicos"
+ diplomatic_scheme_lifestyle.1001.desc:0 "A princípio eu estava trocando cartas com [target.GetTitledFirstName] como um jeito de conhecer [target.GetHerHim]. Rapidamente ficamos presos em um acorde comum, entretanto, agora vai e vem nós estamos enviando páginas inteiras com considerações à estratégia militar!"
+ diplomatic_scheme_lifestyle.1001.a:0 "Mal posso esperar para ler mais das considerações [target.GetHerHis]."
+ diplomatic_scheme_lifestyle.1001.b:0 "Eu tenho uma nova ideia que tenho certeza que irá impressionar [target.GetHerHim]!"
+
+ diplomatic_scheme_lifestyle.3001.t:0 "Conhecendo [target.GetHerHim|U]"
+ diplomatic_scheme_lifestyle.3001.desc:0 "Eu sei que isso pode ser desaprovado pela maioria, mas para manter o olho em [target.GetTitledFirstName] não pode ser algo ruim. Pelo menos é o que digo a mim mesmo enquanto instruo meus agentes para registrar cada aprovação e rejeição [target.GetHerHis]."
+ diplomatic_scheme_lifestyle.3001.a:0 "Para conseguir a amizade [target.GetHerHis] eu devo primeiro conhecer [target.GetHerHim]!"
+ diplomatic_scheme_lifestyle.3001.a.tt:0 "#F Certamente [target.GetSheHe] irá entender!#!"
+ diplomatic_scheme_lifestyle.3001.b:0 "Talvez eles estejam envolvidos em algo..."
+ diplomatic_scheme_lifestyle.3001.b.tt:0 "#F Eu tenho que repensar minha estratégia.#!"
+
+ diplomatic_scheme_lifestyle.3101.t:0 "Confronto"
+ diplomatic_scheme_lifestyle.3101.desc_opening_good:1 ""Por mais que isso tudo esteja bastante lisonjeiro, não tenho certeza de quais são suas intenções."\n\n[target.GetTitledFirstName] [target.Custom('quirk_pos_present')] antes de continuar, "E você está sempre por perto... você pode por favor me deixar só um tempo?""
+ diplomatic_scheme_lifestyle.3101.desc_opening_bad:0 ""Isso tem que parar!"\n\n[target.GetTitledFirstName] [target.Custom('quirk_neg_present')] antes de continuar, "Eu não tenho certeza de qual é o seu objetivo, [ROOT.Char.GetFirstNameNoTooltip], mas se é para aumentar minha rejeição por você, certamente conseguiu!""
+ diplomatic_scheme_lifestyle.3101.a:0 "Eu irei me afastar por um tempo."
+ diplomatic_scheme_lifestyle.3101.a.tt:0 "#F Mas eu não desisti!#!"
+ diplomatic_scheme_lifestyle.3101.b:0 "Eu não irei desistir!"
+ diplomatic_scheme_lifestyle.3101.b.tt:0 "#F Certamente [target.GetSheHe] não quis dizer isso realmente.#!"
+ diplomatic_scheme_lifestyle.3101.c:0 "Se é assim que [ROOT.Char.GetSheHe] se sente, talvez seja ser melhor cancelar."
+
+ diplomatic_scheme_lifestyle.3201.t:0 "Depreciação"
+ diplomatic_scheme_lifestyle.3201.desc:0 ""Esse [sacrificial_agent.Custom('InsultAdjective')] [sacrificial_agent.Custom('InsultNoun')] [sacrificial_agent.GetFirstNameNoTooltip] sempre se esconde — Eu não consigo encontrar descanso!"\n\nEu encontrei [target.GetTitledFirstName] no meio da fúria [target.GetHerHis], directed at my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('sacrificial_agent'))] [sacrificial_agent.GetTitledFirstName]."
+ diplomatic_scheme_lifestyle.3201.a:0 "Sim! E o jeito [sacrificial_agent.GetSheHe] sempre [sacrificial_agent.Custom('quirk_neg_present')]... #EMP Ugh#!!"
+ diplomatic_scheme_lifestyle.3201.b:0 "[sacrificial_agent.GetSheHe|U] é bastante [sacrificial_agent.Custom('quirk_pos_adjective')] [sacrificial_agent.GetWomanMan]!"
