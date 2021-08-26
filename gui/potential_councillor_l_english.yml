@@ -9,7 +9,7 @@
  POTENTIAL_COUNCILLOR_ASSIGN_TT_TITLE:0 "#T Atribuir a posição $NAME$ #!"
  POTENTIAL_COUNCILLOR_REASSIGN_TT_TITLE:0 "#T Reatribuir posição a $NAME$ #!"
  POTENTIAL_COUNCILLOR_SWAP_TT_TITLE:0 "#T Trocar posições do Conselho#!"
- POTENTIAL_COUNCILLOR_SWAP_TT_DESC:0 "Trocar [CHARACTER.GetShortUINamePossessiveNoTooltip] $CHARACTER_POSITION$ posição com [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] $TARGET_POSITION$ position"
+ POTENTIAL_COUNCILLOR_SWAP_TT_DESC:0 "Trocar [CHARACTER.GetShortUINamePossessiveNoTooltip] $CHARACTER_POSITION$ de posição com [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] $TARGET_POSITION$ "
  NO_POTENTIAL_COUNCILLORS:1 "Não existem [vassals|E] ou [courtiers|E] elegíveis para esta posição"
 
 

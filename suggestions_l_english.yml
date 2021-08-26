@@ -38,7 +38,7 @@
 
  suggestion_increase_opinion_label:0 "Aumentar a opinião"
  suggestion_increase_opinion:0 "Sugestão: Aumento [recipient.GetShortUINamePossessiveNoTooltip] opinião sua"
- suggestion_increase_opinion_desc:0 "Seu [actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))] [recipient.GetShortUIName] tem um baixo [opinion|E] de você. Aumentando com um [personal_scheme|E] vai tornar sua vida mais fácil."
+ suggestion_increase_opinion_desc:0 "Seu [actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))] [recipient.GetShortUIName] tem uma baixa [opinion|E] de você. Aumentando com um [personal_scheme|E] vai tornar sua vida mais fácil."
  suggestion_increase_opinion_click:1 "#I Clique para abrir a Interação de Influenciar#!"
 
  suggestion_raid_label:0 "Incursão"

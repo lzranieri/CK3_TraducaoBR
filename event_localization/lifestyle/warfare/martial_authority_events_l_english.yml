@@ -1,10 +1,10 @@
 ﻿l_english:
  # Mercenaries are being assholes at an inn, by Linnéa Thimrén
- martial_authority.1031.t:0 "Mercy for the Mercenaries"
- martial_authority.1031.desc:0 "The bustling of an inn, a fine cider, a calm evening after a long day of training... My tankard is knocked out of my hand by a mercenary reeling from a blow, and all hope of relaxation drains away into the floor along with my cider.\n\n"Please, my [ROOT.Char.GetLadyLord]." The innkeeper begs, "[scoped_mercenary.GetFirstNamePossessive] thugs have been drinking me dry, without paying, for days! And their fighting is scaring the staff and guests!""
- martial_authority.1031.a:0 "I will pay for your drinks if you leave at once."
- martial_authority.1031.b:0 "Soldiers, throw them out!"
- martial_authority.1031.c:0 "They are too drunk to be a real threat, this will be over quickly."
+ martial_authority.1031.t:0 "Misericórdia para os mercenários"
+ martial_authority.1031.desc:0 "O alvoroço de uma pousada, uma boa sidra, uma noite tranquila após um longo dia de treinamento ... Minha caneca é arrancada da minha mão por um mercenário cambaleando com um golpe, e toda esperança de relaxamento esvai-se no chão junto com minha cidra.\n\n"Por favor, meu [ROOT.Char.GetLadyLord]." O estalajadeiro implora, "[scoped_mercenary.GetFirstNamePossessive] bandidos tem bebido muito, sem pagar, por dias! E as brigas estão assustando os funcionários e convidados!""
+ martial_authority.1031.a:0 "Eu pagarei por suas bebidas se você sair imediatamente."
+ martial_authority.1031.b:0 "Soldados, joguem-nos fora!"
+ martial_authority.1031.c:0 "Eles estão bêbados demais para serem uma ameaça real, isso acabará rapidamente."
 
  # Fight between my soldiers (Diplomacy skill challenge), Sean Hughes
  martial_authority.2040.t:0 "Camp Dispute"
@@ -114,8 +114,8 @@
  martial_authority_special.1504.desc_diplomacy:1 "I thought a rousing speech would inspire the deserting soldiers, make them work all the harder to prove themselves worthy of the mercy shown to them. However, even if they did return to the ranks, the fire had gone from their eyes.\n\nThe soldiers that were on patrol with me, on the other hand, seemed to soak up the speech like [ROOT.Char.Custom('RegionalDrink')]."
  martial_authority_special.1504.a:0 "At least the whole ordeal is finally over."
 
- martial_authority_special.3000.t:0 "A Demonstration of Leadership"
- martial_authority_special.3000.desc:0 "[martial_authority_friend.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)|U] has been hovering around my council meetings lately. Knowing [martial_authority_friend.GetHerHis] interest in matters of leadership, I cannot help but feel that the [martial_authority_friend.GetWomanMan] is waiting for me to impress [martial_authority_friend.GetHerHim].\n\nI could probably engage [martial_authority_friend.GetHerHim] in conversation. On the other hand, it might be better for [martial_authority_friend.GetHerHim] to simply see me interacting with my men — there is something to be said for at least #EMP pretending#! to know every soldier's face."
- martial_authority_special.3000.a:0 "Let us discuss methods of communication."
- martial_authority_special.3000.b:0 "We should go greet some recruits!"
+ martial_authority_special.3000.t:0 "Uma demonstração de liderança"
+ martial_authority_special.3000.desc:0 "[martial_authority_friend.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)|U] tem rodeado minhas reuniões de conselho recentemente. Sabendo do [martial_authority_friend.GetHerHis] interesse em questões de liderança, Eu não posso deixar de sentir que o [martial_authority_friend.GetWomanMan] está esperando que eu impressione [martial_authority_friend.GetHerHim].\n\nEu provavelmente poderia colocar [martial_authority_friend.GetHerHim] na conversa. Por outro lado, pode ser melhor para [martial_authority_friend.GetHerHim] simplesmente me ver interagindo com meus homens - há algo a ser dito sobre pelo menos #EMP pretending#! para conhecer o rosto de cada soldado."
+ martial_authority_special.3000.a:0 "Vamos discutir os métodos de comunicação."
+ martial_authority_special.3000.b:0 "Devíamos ir cumprimentar alguns recrutas!"
  respected_figurehead:0 "Respected Figurehead"

@@ -115,7 +115,7 @@
  LIFESTYLE_FOCUS_ICON_HEADER_NO_FOCUS:1 "#T [lifestyle|E]: Nenhum#!"
  EDUCATION_FOCUS_ICON_HEADER:0 "#T Foco de Educação: [CHARACTER.GetFocusType.GetNameNoTooltip]#!"
  EDUCATION_FOCUS_ICON_HEADER_NO_FOCUS:0 "#T Foco de Educação: Nenhum#!"
- SKILL_ITEM_TOOLTIP:0 "[SkillItem.GetSkillBreakdownTooltip]\n\n#S Effects:#!\n[SkillItem.GetSkillEffects]"
+ SKILL_ITEM_TOOLTIP:0 "[SkillItem.GetSkillBreakdownTooltip]\n\n#S Efeitos:#!\n[SkillItem.GetSkillEffects]"
  SKILL_NO_EFFECT:0 "Sem efeitos neste nível"
 
  THEOCRACY_LESSEE_APPROVAL_ENDORSE:2 "#T O seu [realm_priest|E] envia a você#!\n[taxes|E]: [gold_i][TARGET_CHARACTER.GetIncomeFromTheocraticLease|1+=]/mês (out of possible [gold_i][TARGET_CHARACTER.GetMaxIncomeFromTheocraticLease|1+=]/mês )\n[levies|E]: [soldier_i][TARGET_CHARACTER.GetLeviesFromTheocraticLease|V] (out of possible [soldier_i][TARGET_CHARACTER.GetMaxLeviesFromTheocraticLease|V] )\n\nDesde [CHARACTER.GetShortUINamePossessive] [opinion|E] de você é $THRESHOLD|+=$ ou melhor, você ganha taxas e impostos de [CHARACTER.GetHerHis] [church_property|E]"
@@ -150,7 +150,7 @@
  CHARACTER_WINDOW_NEXT_SPOUSE:0 "Mostrar o próximo ex-cônjuge"
  CHARACTER_WINDOW_PREVIOUS_SPOUSE:0 "Mostrar ex-cônjuge"
  CHARACTER_WINDOW_FIND_SPOUSE:1 "#T Encontrar [spouse|E]\n#!Arrange a [marriage|E] para [Character.GetUIName]\n\n[Character.GetPlayerInteractionValidBlockers('marry_off_interaction')]"
- CHARACTER_WINDOW_FIND_SPOUSE_SELF:1 "#T Encontrar [spouse|E]\n#!Arrange a [marriage|E] para você mesmo\n\n[Character.GetPlayerInteractionValidBlockers('marry_off_interaction')]"
+ CHARACTER_WINDOW_FIND_SPOUSE_SELF:1 "#T Encontrar [spouse|E]\n#!Arranje um [marriage|E] para você mesmo\n\n[Character.GetPlayerInteractionValidBlockers('marry_off_interaction')]"
  CHARACTER_WINDOW_FIND_SECONDARY_SPOUSE:0 "#T Encontrar [spouse|E]\n#!Arrange a [marriage|E]"
  CHARACTER_WINDOW_NO_MORE_SPOUSES:0 "#T Não mais [spouses|E]#!"
  CHARACTER_WINDOW_GOTO_FIND_SPOUSE:0 "#T Próximo: Encontrar [spouse|E]#!"

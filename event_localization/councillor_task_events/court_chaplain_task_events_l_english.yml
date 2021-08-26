@@ -4,15 +4,15 @@
  court_chaplain_task.0201.a:0 "Brilliant work, [councillor.GetFirstNameNoTooltip]!"
  court_chaplain_task.0201.b:0 "Uh, which faith is that, now?"
 
- court_chaplain_task.0301.desc:0 "I have prowled through documents both ancient and... of less certain provenance. I finally have enough material to make the case that you are the rightful [ROOT.Char.GetLadyLord|U] of the [county.GetName]!\n\nAll that is missing is one little bribe..."
+ court_chaplain_task.0301.desc:0 "Eu vasculhei documentos antigos e ... de procedência menos certa.. Finalmente, tenho material suficiente para argumentar que você é o legítimo [ROOT.Char.GetLadyLord|U] do [county.GetName]!\n\nTudo o que está faltando é um pequeno suborno..."
  court_chaplain_task.0301.a:0 "See it done!"
- court_chaplain_task.0301.b:0 "No, I cannot."
- court_chaplain_task.0301.b.tt:0 "Lose all Fabricate Claim progress"
+ court_chaplain_task.0301.b:0 "Não, eu não posso"
+ court_chaplain_task.0301.b.tt:0 "Perder todo o progresso de Fabricação de Reivindicação"
 
- court_chaplain_task.0302.desc:1 "I have prowled through documents both ancient and of... less certain provenance. I finally have enough material to make the case that you are the rightful [ROOT.Char.GetLadyLord|U] of the [county.GetName].\n\nIndeed, I could even argue you are the rightful [ROOT.Char.GetLadyLord|U] of the [duchy.GetName]!"
- court_chaplain_task.0302.desc_heretic_addition:0 "I have prowled through documents both ancient and of... less certain provenance. I finally have enough material to make the case that you are the rightful [ROOT.Char.GetLadyLord|U] of the [county.GetName].\n\nSeeing as [duchy_holder.GetFirstName] unfortunately insists on being #EMP [duchy_holder.GetFaith.GetAdherentName]#!, I could even argue that you have a claim to the [duchy.GetName] – by divine right!"
- court_chaplain_task.0302.a:0 "Present my claim on [county.GetNameNoTierNoTooltip]."
- court_chaplain_task.0302.b:0 "Yes! All of [duchy.GetNameNoTierNoTooltip] will be mine!"
+ court_chaplain_task.0302.desc:1 "Eu vasculhei documentos antigos e de ... procedência menos certa. Finalmente, tenho material suficiente para argumentar que você é o legítimo [ROOT.Char.GetLadyLord|U] do [county.GetName].\n\nDe fato, eu poderia até argumentar que você é o legítimo [ROOT.Char.GetLadyLord|U] de [duchy.GetName]!"
+ court_chaplain_task.0302.desc_heretic_addition:0 "Eu vasculhei documentos antigos e de ... procedência menos certa. Finalmente, tenho material suficiente para argumentar que você é o legítimo [ROOT.Char.GetLadyLord|U] de [county.GetName].\n\nVendo como [duchy_holder.GetFirstName] infelizmente, insiste em ser #EMP [duchy_holder.GetFaith.GetAdherentName]#!, Eu poderia até argumentar que você tem uma reivindicação ao [duchy.GetName] – por direito divino!"
+ court_chaplain_task.0302.a:0 "Apresentar minha reivindicação em [county.GetNameNoTierNoTooltip]."
+ court_chaplain_task.0302.b:0 "Sim! Tudo de [duchy.GetNameNoTierNoTooltip] será meu!"
  
  court_chaplain_task.0311.t:0 "A Claim on [county.GetNameNoTierNoTooltip]!"
  court_chaplain_task.0311.opening:0 "For months, [councillor.GetTitledFirstName], [councillor_liege.GetTitledFirstNamePossessive] [councillor.GetCouncilTitle], has been digging up spurious contracts and fabricated histories."

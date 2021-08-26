@@ -755,7 +755,7 @@
  special_doctrine_is_jewish_faith_desc:0 "Not all among the gentility dwell in sin. There are those who respect God's chosen people, and these deserve a measure of our respect in turn."
  doctrine_parameter_hostility_override_tenet_jewish_syncretism:1 "Non-Jewish [faiths|E] with the $tenet_jewish_syncretism_name$ tenet are considered [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Evil#!"
 
- TOO_FEW_SPOUSES_PIETY:0 "Too Few Spouses"
+ TOO_FEW_SPOUSES_PIETY:0 "Poucos cônjuges"
 
  CRUSADER_STATE_CRUSADER_TITLE_NAME:0 "Crusader [target_kingdom.GetNameNoTier]"
  CRUSADER_STATE_FAITH_TITLE_NAME:0 "[title_recipient.GetFaith.GetAdjective|U] [target_kingdom.GetNameNoTier|U]"

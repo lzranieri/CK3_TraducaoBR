@@ -126,7 +126,7 @@
  CHURCH_PROPERTY_TOOLTIP:1 "#T [church_property|E]#!\n[lessee|E]: [Title.GetLessee.GetUIName]\n[holder|E]: [Title.GetHolder.GetUIName]\n\n#S Efeitos dos [buildings|E] #weak (para [Title.GetHolder.GetShortUINameNoTooltip])#!:#!\n[HoldingView.GetHolderEffectsFromBuildingsDescription]"
  HOLDING_VIEW_NO_HOLDER_EFFECTS_FROM_BUILDINGS:0 "$NO_EFFECTS$"
  HOLDING_TERRAIN_TOOLTIP:0 "#T [Terrain.GetNameNoTooltip]#!\n[Terrain.GetEffects]"
- HOLDING_UNDER_SIEGE:0 "#T @warning_icon! Propriedade sob [siege|E]#!\n#I Click to view#!"
+ HOLDING_UNDER_SIEGE:0 "#T @warning_icon! Propriedade sob [siege|E]#!\n#I Clique para ver#!"
  HOLDING_VIEW_UNDER_OCCUPATION:0 "@warning_icon! #X A Propriedade está sob ocupação.#!"
  HOLDING_VIEW_ENEMY_OR_HOSTILE_UNITS:0 "@warning_icon! #X Existem exércitos inimigos ou hostis na Fortaleza.#!"
  HOLDING_VIEW_UNDER_SIEGE:0 "@warning_icon! #X Propriedade sob [siege|E]#!"

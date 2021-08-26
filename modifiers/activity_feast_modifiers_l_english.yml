@@ -1,6 +1,6 @@
 ﻿l_english:
- feast_strategy_discussions_modifier:0 "Discussions on Strategy"
- feast_strategy_discussions_modifier_desc:1 "Discussing strategies with experienced commanders has proved fruitful for this character."
+ feast_strategy_discussions_modifier:0 "Discussões sobre estratégia"
+ feast_strategy_discussions_modifier_desc:1 "Discutir estratégias com comandantes experientes provou ser frutífero para esse personagem."
  feast_cavalry_insight_modifier:0 "Cavalry Insight"
  feast_cavalry_insight_modifier_desc:1 "Plotting out theoretical strategies has given this character ideas for how to more efficiently use their cavalry."
  feast_heavy_infantry_insight_modifier:0 "Heavy Infantry Insight"
@@ -20,7 +20,7 @@
  feast_had_good_fight_modifier:0 "Had Good Fight"
  feast_loyal_servantry_modifier:0 "Loyal Servantry"
 
- i_am_corteous_guest_modifier:0 "Courteous Guest"
+ i_am_corteous_guest_modifier:0 "Convidado Cortês"
  i_am_corteous_guest_modifier_desc:1 "This character is exceptionally courteous and considerate of their host, wherever they may be."
 
  feast_higher_standards_modifier:0 "Higher Standards of Courtesy"

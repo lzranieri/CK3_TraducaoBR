@@ -31,15 +31,15 @@
 
  yearly.4022.t:0 "The Returned"
  yearly.4022.desc:0 ""Hello [child.Custom2('RelationToMeShort', ROOT.Char)]." [ROOT.Char.Custom2('MyCharacterIntroduction', SCOPE.sC('child'))] looks a bit gaunt after [child.GetHerHis] time in [actor.GetTitledFirstNamePossessive] prison, but the [child.Custom('quirk_neg_adjective')] smile that splits [child.GetHerHis] face makes [child.GetHerHim] seem more alive than ever.\n\n"I cannot wait to thank you for the lesson you taught me about paying my dues.""
- yearly.4022.a:0 "Welcome home, [child.GetFirstNameNoTooltip]."
+ yearly.4022.a:0 "Bem-vindo a casa, [child.GetFirstNameNoTooltip]."
 
  yearly.4031.t:0 "Killer in Our Midst"
- yearly.4031.desc_opening:0 "The smell hits me before the door is opened; a heavy and meaty odor that permeates the area. It is the stench of the newly dead.\n\n"
+ yearly.4031.desc_opening:0 "O cheiro me atinge antes que a porta seja aberta; um odor pesado e carnudo que permeia a área. É o fedor dos recém-mortos.\n\n"
  yearly.4031.desc_physician:0 ""Another murder, my [ROOT.Char.GetLadyLord]." [physician.GetTitledFirstName] wipes [physician.GetHerHis] bloody hands on an apron as [physician.GetSheHe] stands up after looking over the body. "We must stop this senseless killer!""
- yearly.4031.desc:0 "Yet another body has been found... They have all been people of little importance, thank [ROOT.Char.GetFaith.HighGodName], but the court is getting nervous."
- yearly.4031.a:0 "I will scour the [ROOT.Char.Custom('ResidenceBuilding')] for this murderer!"
+ yearly.4031.desc:0 "Mais um corpo foi encontrado ... Todos eles são pessoas de pouca importância, obrigado [ROOT.Char.GetFaith.HighGodName], mas a corte está ficando nervosa."
+ yearly.4031.a:0 "Eu vou vasculhar o [ROOT.Char.Custom('ResidenceBuilding')] atrás deste assassino!"
  yearly.4031.tt:0 "An investigation is launched"
- yearly.4031.b:0 "Let's bury the body and forget this travesty."
+ yearly.4031.b:0 "Vamos enterrar o corpo e esquecer essa farsa."
  yearly.4031.b_every_courtier:0 "Every courtier"
  yearly.4031.c:0 "As my court physician, you should study the bodies."
 
@@ -54,7 +54,7 @@
  yearly.4061.b:0 "Let your knowledge bless the whole court!"
  yearly.4061.c:0 "I don't have time for fools."
  yearly.4061.c.tt:0 "You dismiss the man"
- yearly.4061.d:0 "Amusing! Let him likewise amuse the masses."
+ yearly.4061.d:0 "Divertido! Que ele também divirta as massas."
  yearly.4061.d.tt:0 "Parade him through the streets as a fool"
 
  yearly.4071.t:0 "The Search for Knowledge"

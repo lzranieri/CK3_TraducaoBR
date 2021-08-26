@@ -10,4 +10,5 @@
  RP_CANNOT_RAISE_ENEMY_TERRITORY:0 "#X O local do [rally_point|E] está em territorio inimigo#!"
  RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X Não pode levantar exercito em nenhum [rally_point|E], graças a [occupation|E] ou [armies|E] inimigos presentes no local#!"
  RP_NOTHING_TO_RAISE:0 "#X Sem [armies|E] para levantar#!"
+ RAISE_TROOPS_EXTRA_INFO:0 "#I Ctrl-clique para #bold not#! dividir os [armies|E] com base em [Concept( 'supply_limit', 'Supply Limits')|E]#!"
    #ReiCoringa 3/9/2020

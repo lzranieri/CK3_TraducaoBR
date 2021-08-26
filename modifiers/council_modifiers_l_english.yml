@@ -23,7 +23,7 @@
  task_collect_taxes_perk_bonus_modifier:0 "Tax Person" # should probably use the dynamic name (tax_man_perk_male_name/tax_man_perk_female_name) but our modifier names can't handle that currently because of the order of loading databases
  task_organize_levies_modifier:0 "Organizing Levies"
  marshal_task_levy_desertions_modifier:0 "Levy Desertions"
- marshal_task_levy_desertions_modifier_desc:0 "High demands and a heavy hand has led to large number of levy troops deserting from my armies."
+ marshal_task_levy_desertions_modifier_desc:0 "Altas demandas e a mão pesada levaram a um grande número de tropas desertando de meus exércitos."
 
  marshal_task_unused_farmland_modifier:0 "Unused Farmland"
  marshal_task_unused_farmland_modifier_desc:0 "Farmers have been recruited indiscriminately from this county, resulting in a lack of workers for large swathes of land."
