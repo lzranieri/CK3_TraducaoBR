@@ -63,7 +63,7 @@
  MOD_ADVANTAGE:1 "[command_modifier_i|E][advantage|E]"
  MOD_ATTACKER_ADVANTAGE:1 "[command_modifier_i|E]Attacker [advantage|E]"
  MOD_DEFENDER_ADVANTAGE:1 "[command_modifier_i|E]Defender [advantage|E]"
- MOD_NO_WATER_CROSSING_PENALTY:1 "[command_modifier_i|E]Crosses Water without [advantage|E] penalties"
+ MOD_NO_WATER_CROSSING_PENALTY:1 "[command_modifier_i|E]Cruza Águas sem penalidades de [advantage|E]"
  MOD_ENEMY_TERRAIN_ADVANTAGE:1 "[command_modifier_i|E]Enemy Defensive [advantage|E]"
  MOD_DRYLANDS_ADVANTAGE:1 "[command_modifier_i|E]Drylands [advantage|E]"
  MOD_DESERT_ADVANTAGE:1 "[command_modifier_i|E]Desert [advantage|E]"

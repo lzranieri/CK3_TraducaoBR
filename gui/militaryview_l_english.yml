@@ -76,6 +76,7 @@
  TT_RAISE_ALL_MAA_INFO:1 "[men_at_arms|E], [special_troops|E], [mercenaries|E], e [holy_orders|E] serão erguidos no [rally_point|E] mais próximo do seu [realm_capital|E]."
  TT_RAISE_ALL:2 "#T Erguer todos os exércitoss#!\n[levies|E] serão erguidos o mais próximo [rally_point|E].\n\n$TT_RAISE_ALL_MAA_INFO$"
  TT_RAISE_ALL_RAIDERS:0 "#T Erga todos os exércitos como saqueadores#!\nErga todos os exércitos, e eles se equiparão para ser [raiders|E] "
+ TT_RAISE_ALL_MEN_AT_ARMS:0 "#T Convocar todos os homens de armas#!\n[men_at_arms|E] serão convocados no [rally_point|E] mais próximo da sua [realm_capital|E]."
  TT_RAISE_ALL_LEVIES:0 "Não erguidos [levies|E]: $UNRAISED|0V$/$RAISE_MAX|0V$"
  TT_RAISE_ALL_MAA:0 "Não erguidos [men_at_arms|E]: $UNRAISED|0V$/$RAISE_MAX|0V$"
  TT_HIRE_TROOPS:0 "#T Contrate Soldados#!\nMostrar soldados disponíveis para contratar"

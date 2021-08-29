@@ -11,11 +11,11 @@
 
 
 #Council task tooltips.
- task_diplomacy_bad_unskilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] diplomacy skill caused this problem."
- task_martial_bad_unskilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] martial skill caused this problem."
- task_stewardship_bad_unskilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('stewardship_skill_level')] stewardship skill caused this problem."
- task_intrigue_bad_unskilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] intrigue skill caused this problem."
- task_learning_bad_unskilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] learning skill caused this problem."
+ task_diplomacy_bad_unskilled_notification_tooltip:0 "Sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] habilidade diplomática causou este problema."
+ task_martial_bad_unskilled_notification_tooltip:0 "Sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] habilidade marcial causou este problema."
+ task_stewardship_bad_unskilled_notification_tooltip:0 "Sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('stewardship_skill_level')] habilidade de administração causou este problema."
+ task_intrigue_bad_unskilled_notification_tooltip:0 "Sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] habilidade de intriga causou este problema."
+ task_learning_bad_unskilled_notification_tooltip:0 "Sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] habilidade de aprendizagem causou este problema."
 
  task_diplomacy_bad_skilled_notification_tooltip:0 "This problem happened in spite of your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] diplomacy skill."
  task_martial_bad_skilled_notification_tooltip:0 "This problem happened in spite of your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] martial skill."
@@ -23,11 +23,11 @@
  task_intrigue_bad_skilled_notification_tooltip:0 "This problem happened in spite of your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] intrigue skill."
  task_learning_bad_skilled_notification_tooltip:0 "This problem happened in spite of your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] learning skill."
 
- task_diplomacy_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] diplomacy skill."
- task_martial_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] martial skill."
- task_stewardship_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('stewardship_skill_level')] stewardship skill."
- task_intrigue_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] intrigue skill."
- task_learning_good_unskilled_notification_tooltip:0 "This happened despite your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] learning skill."
+ task_diplomacy_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar da sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] habilidade diplomática."
+ task_martial_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar da sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] habilidade marcial."
+ task_stewardship_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar da sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('stewardship_skill_level')] habilidade de administração."
+ task_intrigue_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar da sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('intrigue_skill_level')] habilidade de intriga."
+ task_learning_good_unskilled_notification_tooltip:0 "Isso aconteceu apesar da sua [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('learning_skill_level')] habilidade de aprendizagem."
 
  task_diplomacy_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('diplomacy_skill_level')] diplomacy skill led to this windfall."
  task_martial_good_skilled_notification_tooltip:0 "Your [active_councillor.GetCouncilTitlePossessive] [active_councillor.Custom('martial_skill_level')] martial skill led to this windfall."

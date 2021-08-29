@@ -13,7 +13,7 @@
  steward_task.1001.opening:0 "It seems that the effort of my [councillor.GetCouncilTitle] to improve tax collection has had some unfortunate side effects."
  steward_task.1001.end:0 "\n\nBandits have sprung up in the [county.GetName], claiming that with the new taxes, robbery is the only way of feeding their families."
  steward_task.1001.a:0 "Sooner or later they will be eating steel!"
- steward_task.1001.notification:0 "Overtaxation Causes Banditry"
+ steward_task.1001.notification:0 "A sobretaxa causa banditismo"
 
  steward_task.1002.end:0 "\n\nThe people of the [county.GetName] have begun to hide family members and farm animals from [councillor.GetTitledFirstName] and my other assessors!"
  steward_task.1002.a:0 "We must know of them to tax them, [councillor.GetFirstNameNoTooltip]!"

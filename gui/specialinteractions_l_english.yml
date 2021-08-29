@@ -42,17 +42,34 @@
  MATRILINEAL_PATRILINEAL_REASON:0 "[secondary_recipient.Custom('IncorrectLineality')] Casamento: $VALUE|=+0$"
  NO_PRESTIGE_MUSLIM_MARRIAGE:0 "[characters|E] destas [faiths|E] são [GetFaithDoctrine('doctrine_polygamy').GetBaseName] não ganham [prestige|E] do casamento"
 
+
+
+
+
+ high_obligations:0 "[obligations|E] Feudais Altas"
+ high_obligations_taxes:0 "[feudal_contract|E] começa com [GetVassalContractType( 'feudal_government_taxes' ).GetObligationName( 'feudal_tax_high' )]"
+ high_obligations_levies:0 "[feudal_contract|E] começa com [GetVassalContractType( 'feudal_government_levies' ).GetObligationName( 'feudal_levies_high' )]"
+ normal_obligations:0 "[obligations|E] Feudais Normais"
+ normal_obligations_taxes:0 "[feudal_contract|E] começa com [GetVassalContractType( 'feudal_government_taxes' ).GetObligationName( 'feudal_tax_normal' )]"
+ normal_obligations_levies:0 "[feudal_contract|E] começa com [GetVassalContractType( 'feudal_government_levies' ).GetObligationName( 'feudal_levies_normal' )]"
+ low_obligations:0 "[obligations|E] Feudais Baixas"
+ low_obligations_taxes:0 "[feudal_contract|E] começa com [GetVassalContractType( 'feudal_government_taxes' ).GetObligationName( 'feudal_tax_low' )]"
+ low_obligations_levies:0 "[feudal_contract|E] começa com [GetVassalContractType( 'feudal_government_levies' ).GetObligationName( 'feudal_levies_low' )]"
+  religious_exemption:0 "Isenção Religiosa"
+ religious_taxation:0 "Tributação Religiosa"
+ religious_protection_tt:0 "[feudal_contract|E] começa com [GetVassalContractType( 'religious_rights' ).GetObligationName( 'religious_rights_protected' )]"
+ 
  AI_ELOPE_CONSEQUENCES:0 "[recipient.GetShortUIName|U] desconfia das consequências: $VALUE|=+0$"
  AI_SPOUSE_OPINION:0 "[CHARACTER.GetShortUINamePossessive] Opinião do Conjuge de [CHARACTER.GetHerHis]: $VALUE|=+0$"
  AI_ELOPE_WEAK_HOOK:0 "[recipient.GetLiege.GetShortUIName] tem [weak_hook|E] sobre [recipient.GetShortUIName]: $VALUE|=+0$"
  AI_ELOPE_STRONG_HOOK:0 "[recipient.GetLiege.GetShortUIName] tem [strong_hook|E] sobre [recipient.GetShortUIName]: $VALUE|=+0$"
  AI_ELOPE_INHERITANCE:0 "[recipient.GetShortUIName|U] irá herdar um [title|E]: $VALUE|=+0$"
  AI_ELOPE_POSSIBLE_INHERITANCE:0 "[recipient.GetShortUIName|U] pode herdar um [title|E]: $VALUE|=+0$"
-
  ZEAL_AGAINST_INFIDELS:0 "Zelo contra os infiéis: $VALUE|=+0$"
  MATRILINEAL_OFFER:0 "[matrilineal|E] Casamento"
  MATRILINEAL_TOOLTIP:0 "Isso deveria ser um [matrilineal|E] casamento?"
  MATRILINEAL_OFFER_BETROTHAL_INFO:0 "Você não pode mudar isso, pois foi acordado durante o [betrothal|E]"
+  
  CHANGE_CHARACTER:0 "Mudar personagem"
  VALUABLE_CLAIMANT:0 "[claimant|E] Valioso: $VALUE|+0$"
  CLAIMANT_TO_MY_TITLES:0 "[title|E] [claimant|E]: $VALUE|+0$"

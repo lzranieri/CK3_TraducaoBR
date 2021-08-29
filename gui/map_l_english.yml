@@ -73,6 +73,8 @@
  DE_JURE_DRIFT_PROGRESS_DESCRIPTION:0 "[TITLE.GetNameNoTooltip] de jure desvia o progresso em direção a [TARGET_TITLE.GetNameNoTooltip] de $DURATION$"
  MAP_COUNTY_HOLDER_MAIN_TEXT:0 "\nReino Superior: [TITLE.GetDeFactoTopLiege.GetNameNoTooltip|V]\nTitular do condado: [CHARACTER.GetUINameNoTooltip|UV]"
  MAP_COUNTY_HOLDER_RIGHT_CLICK:1 "#I Clique com o botão direito para selecionar o Titular do Condado#!"
+ MAP_COUNTY_REALM_EXPLORE_CLICK:0 "#I Ctrl+click to expand Realm#!"
+ MAP_COUNTY_REALM_EXPLORE_UNDO_CLICK:0 "#I Ctrl+right-click to collapse Realm#!"
  MAP_OCCUPANT_TEXT:0 "Ocupante: [CHARACTER.GetUINameNoTooltip|UV]"
 
  HOUSES_MAP_MODE_TOOLTIP:0 "#T Casa de [ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetNameNoTooltip]#!:\n[ROOT.Province.GetTitle.GetDeFactoTopLiege.GetHolder.GetHouse.GetBaseNameNoTooltip]"

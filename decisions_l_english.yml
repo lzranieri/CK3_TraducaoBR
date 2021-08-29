@@ -716,7 +716,7 @@
  convert_to_local_culture_decision_confirm:1 "I acknowledge who I am"
  convert_to_local_culture_decision_tooltip:0 "Convert to the [culture|E] of your [capital|E]"
  converted_culture_msg_title:0 "[converting_character.GetShortUIName|U] converted [culture|E]"
- converted_from_old_culture_to_new_culture_tt:0 "Converted from [old_culture.GetName] to [new_culture.GetName]"
+ converted_from_old_culture_to_new_culture_tt:0 "Convertido de [old_culture.GetName] para [new_culture.GetName]"
  every_old_culture_vassal_holding_new_culture_land:0 "Every [vassal|E] sharing your [culture|E] that has [counties|E] of the new Culture"
  every_close_family_member_sharing_your_culture:0 "Every close family member sharing your culture"
  every_consort_sharing_your_culture:0 "Every consort sharing your culture"
@@ -822,5 +822,41 @@
  launch_hungarian_migration_decision_flavour_effect:0 "You gain the single-use special [hungarian_invasion_casus_belli|E]"
  launch_hungarian_migration_decision_confirm:0 "Send riders to each tribe!"
  launch_hungarian_migration_decision_before_last_date:0 "The date is 911.1.1 or earlier"
-
- ###BasaraMestre-10-09-2020###
+ 
+ negotiate_the_danelaw_decision:0 "Negotiate the Danelaw"
+ negotiate_the_danelaw_decision_desc:0 "Competition for land in $k_england$ is fierce, and no one ruler has yet proved dominant. Yet, there is a path no one has yet tried. Perhaps a Devil's bargain could yet be struck..."
+ negotiate_the_danelaw_decision_confirm:0 "So power now, unification later?"
+ negotiate_the_danelaw_decision_tooltip:0 "Consider splitting $k_england$ into two with your most powerful rival"
+ negotiate_the_danelaw.valid_opponent.tt:0 "You must have a valid opponent to negotiate with"
+ negotiate_the_danelaw.controlled_duchies.tt:0 "You must [completely_control|E] at least two [duchies|E] within [de_jure|E] $k_england$"
+ negotiate_the_danelaw.preview.tt:0 "You ponder whether partitioning the realm might prove beneficial..."
+ negotiate_the_danelaw.clarification.tt:0 "You will be able to back out of this decision before confirming."
+ 
+ formalise_the_daneland_decision:0 "Formalize the Daneland"
+ formalise_the_daneland_decision_desc:0 "What do our people care for $k_england$? We have so much more than just our own laws: we have our own customs, languages, traditions, our own #EMP culture#!. They have no more a claim to our land than we to theirs."
+ formalise_the_daneland_decision_confirm:0 "This rivalry ill-becomes us."
+ formalise_the_daneland_decision_tooltip:0 "Relinquish the struggle for a united $k_england$"
+ formalise_the_daneland_decision.must_be_after_1100.tt:0 "The date is 1100.1.1 or later"
+ 
+ deceitful_progress_hostile_schemes_decision:0 "Study the Art of Scheming"
+ deceitful_progress_hostile_schemes_decision_desc:0 "'I must consider every angle my scheme might turn to. As the spider weaves its web, I should ensure there are many ways my prey could become ensnared. I will spend some time planning my deception carefully."
+ deceitful_progress_hostile_schemes_decision_tooltip:0 "Refine your [hostile_schemes|E]."
+ deceitful_progress_hostile_schemes_decision_confirm:0 "A world of schemes await!"
+ deceitful_progress_hostile_schemes_decision_missing_scheme:0 "You need to have at least #V 1 #! active [hostile_scheme|E]"
+ deceitful_progress_hostile_schemes_decision_missing_scheme_effect:0 "Your [hostile_schemes|E] will have a better [success_chance|E]"
+ msg_deceitful_progress_hostile_schemes:0 "Your [hostile_schemes|E] progressed!"
+ 
+ diligent_development_focus_decision:0 "Develop Capital"
+ diligent_development_focus_decision_desc:0 "I dream that [ROOT.Char.GetCapitalLocation.GetTitle.GetNameNoTierNoTooltip] will one day be the envy of every ruler under the sky. I must endeavor to be the champion who turns it into the jewel of the Earth. All that is needed is for me to put in some more work...\n\nWho needs to sleep, anyway?"
+ diligent_development_focus_decision_tooltip:0 "Improve the development of your Capital"
+ diligent_development_focus_decision_confirm:0 "Plan the development"
+ msg_diligent_development_focus:0 "Your diligent planning is paying off!"
+ 
+ impatient_rushing_all_schemes_decision:0 "Expedite Schemes"
+ impatient_rushing_all_schemes_decision_desc:0 "Why should I wait forever when I feel ready? Let's try my chance now!"
+ impatient_rushing_all_schemes_decision_tooltip:0 "Take your chances by closing your schemes earlier"
+ impatient_rushing_all_schemes_decision_confirm:0 "It's now or never!"
+ impatient_rushing_all_schemes_decision_missing_scheme:0 "You need to have at least #V 1 #! active [scheme|E]"
+ impatient_rushing_all_schemes_decision_missing_scheme_effect:0 "Your active [schemes|E] will progress instantly"
+ msg_impatient_rushing_all_schemes:0 "Your [schemes|E] are ready!"
+ 
